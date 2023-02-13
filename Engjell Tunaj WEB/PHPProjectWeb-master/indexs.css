@@ -1,0 +1,53 @@
+#navLinks {
+    justify-content: flex-end;
+}
+
+.imgi {
+    width: 400px;
+}
+
+.hh {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.qmimi {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.Price {
+    color: red;
+
+}
+
+.blerje {
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+}
+
+.h2 {
+    text-align: center;
+}
+
+.img {
+    width: 150px;
+}
+
+.ss {
+    margin-left: 50px;
+}
+
+.imgis {
+    width: 400px;
+}
+
+.oo {
+    margin-top: 20px;
+}
+
+.aaaa {
+    width: 200px;
+}

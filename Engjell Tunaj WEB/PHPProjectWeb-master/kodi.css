@@ -1,0 +1,116 @@
+* {
+    margin: 50;
+    padding: 50;
+}
+
+.butoni {
+    width: 95%;
+    background-color: black;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.username {
+
+    width: 97%;
+    padding-top: 2px;
+    text-align: center;
+    margin-left: 0px;
+
+}
+
+.paswordi {
+
+    width: 97%;
+    text-align: center;
+    margin-left: 0px;
+    margin-top: 8px;
+
+
+}
+
+form {
+
+
+
+
+
+    margin-top: 200px;
+    margin-left: 600px;
+    margin-right: 600px;
+
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: 0 0 1px #333;
+    border-radius: 8px;
+
+
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.aa {
+    color: white;
+    cursor: pointer;
+
+
+}
+
+.aa:hover {
+    text-decoration: underline;
+}
+
+.signup {
+
+    text-align: center;
+    color: white;
+
+}
+
+.signup a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body {
+    background-image: url(img/aaa.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#home,
+#about,
+#products,
+#news,
+#login,
+#register {
+    margin: 2em 1em 0 1em;
+    font-size: large;
+}
+
+#navLinks {
+    justify-content: flex-end;
+}
+
+.custom-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.login {
+    text-align: center;
+    margin-left: 40px;
+}
